@@ -1,0 +1,10 @@
+{
+    "token": "هنا توكن البوت",
+    "prefix": ".",
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "databaseName": "owl"
+    }
+}
